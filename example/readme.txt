@@ -2,13 +2,13 @@
 
 The executable file take three (2) command line argument.
 
-1st "input xml file name"
-2nd "output xml file name"
+1st "input file name"
+2nd "output file name"
 
 for example
 
 here stampr is executed as the following
 
-"./stampr INPUT/ex31.xml OUTPUT/ex31_out.xml "
+"./stampr INPUT/ex31.jpg OUTPUT/ex31_out.png "
 
  
