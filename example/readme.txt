@@ -9,6 +9,6 @@ for example
 
 here stampr is executed as the following
 
-"./stampr INPUT/ex31.jpg OUTPUT/ex31_out.png "
+"./stampr INPUT/ex31.jpg OUTPUT/ex31_stamp_removed.png "
 
  
